@@ -9,7 +9,8 @@ The main folder contains 2 files:
 - Credulous (folder)
 
 The structure is this:  
-Credulous   
+Credulous(git_proj)   
+├── Credulous   
 │   ├── All Rules   
 │   │   └── R1234   
 │   │       ├── R1234_cut100_19.txt   
@@ -51,3 +52,5 @@ Credulous
 │           ├── R4_150.txt   
 │           └── R4_200.txt   
 └── Humans2Considered.txt   
+
+##### For further information, please email to: alessandro.balestrucci@gssi.it
