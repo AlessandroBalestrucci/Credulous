@@ -1,7 +1,8 @@
 # Credulous
 
 In this repository is stored the results of the work focused on the study of Twitter Human users.
-To use the content of this dataset in your work, please cite: &nbsp Balestrucci, Alessandro, et al. *"Identification of Credulous Users on Twitter."* Proceedings of the 34rd Annual ACM Symposium on Applied Computing. ACM, 2019.
+To use the content of this dataset in your work, please cite:  
+Balestrucci, Alessandro, et al. *"Identification of Credulous Users on Twitter."* Proceedings of the 34rd Annual ACM Symposium on Applied Computing. ACM, 2019.
 
 The main folder contains 2 files:
 - Humans2Considered.txt (The Twitter ID of certified HUMAN users)
