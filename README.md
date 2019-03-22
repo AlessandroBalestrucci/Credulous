@@ -53,4 +53,4 @@ Credulous(git_proj)
 │           └── R4_200.txt   
 └── Humans2Considered.txt   
 
-##### For further information, please email to: alessandro.balestrucci@gssi.it
+##### For further information, please send an e-mail to: alessandro.balestrucci@gssi.it
