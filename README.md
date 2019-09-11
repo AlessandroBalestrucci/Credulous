@@ -1,8 +1,41 @@
 # Credulous
 
-In this repository is stored the results of the work focused on the study of Twitter Human users.
-To use the content of this dataset in your work, please cite:  
-##### Balestrucci, Alessandro, et al. *"Identification of Credulous Users on Twitter."* Proceedings of the 34rd Annual ACM Symposium on Applied Computing. ACM, 2019. **doi: https://doi.org/10.1145/3297280.32974**      (in press)
+The repository stores a dataset of human-operated Twitter accounts, with
+the characteristics of having many bots amongst their friends.
+
+Two terms of usage apply:
+
+- The appropriate papers are cited in any research product whose
+findings are based on this dataset;
+- The usage of this dataset is for research purposes only.
+
+Papers to be cited:
+
+1) Alessandro Balestrucci, Rocco De Nicola, Omar Inverso, Catia
+Trubiani:
+Identification of credulous users on Twitter. SAC 2019: 2096-2103
+
+bibtex entry:
+@inproceedings{DBLP:conf/sac/BalestrucciNIT19,
+   author    = {Alessandro Balestrucci and
+                Rocco {De Nicola} and
+                Omar Inverso and
+                Catia Trubiani},
+   title     = {Identification of credulous users on {Twitter}},
+   booktitle = {Proceedings of the 34th {ACM/SIGAPP} Symposium on Applied
+Computing,
+                {SAC} 2019, Limassol, Cyprus, April 8-12, 2019},
+   pages     = {2096--2103},
+   year      = {2019},
+   url       = {https://doi.org/10.1145/3297280.3297486},
+   doi       = {10.1145/3297280.3297486},
+}
+
+2) Alessandro Balestrucci, Rocco De Nicola, Marinella Petrocchi, Catia
+Trubiani:
+Do you really follow them? Automatic Detection of Credulous Twitter
+Users. In 20th International Conference on Intelligent Data Engineering
+and Automated Learning (IDEAL), LNCS Springer, 2019 (in press)
 
 The main folder contains 2 files:
 - Humans2Considered.txt (The Twitter ID of certified HUMAN users)
