@@ -28,7 +28,7 @@ Computing,
    pages     = {2096--2103},  
    year      = {2019},  
    url       = {https://doi.org/10.1145/3297280.3297486},  
-   doi       = {10.1145/3297280.3297486},  
+   doi       = {10.1145/3297280.3297486}  
 }  
 
 2) Alessandro Balestrucci, Rocco De Nicola, Marinella Petrocchi, Catia Trubiani:  
