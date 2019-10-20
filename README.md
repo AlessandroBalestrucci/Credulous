@@ -40,7 +40,7 @@ The main folder contains 2 files:
 
 The structure is this:  
 Credulous (GitProj)   
-├── Credulous
+├── Credulous   
 │   ├── Humans2Considered.txt   
 │   ├── All Rules   
 │   │   └── R1234   
