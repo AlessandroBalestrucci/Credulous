@@ -39,50 +39,50 @@ The main folder contains 2 files:
 - Credulous (folder)
 
 The structure is this:  
-Credulous (gitPproj)
-├── Credulous
-│   ├── Humans2Considered.txt
-│   ├── All Rules
-│   │   └── R1234
-│   │       ├── R1234_cut100_19.txt
-│   │       ├── R1234_cut150_37.txt
-│   │       └── R1234_cut200_63.txt
-│   ├── Impact of Normalization
-│   │   ├── R13
-│   │   │   ├── R13_cut100_71.txt
-│   │   │   ├── R13_cut150_114.txt
-│   │   │   └── R13_cut200_152.txt
-│   │   └── R24
-│   │       ├── R24_cut100_82.txt
-│   │       ├── R24_cut150_125.txt
-│   │       └── R24_cut200_174.txt
-│   ├── Impact of Seniority
-│   │   ├── R12
-│   │   │   ├── R12_cut100_36.txt
-│   │   │   ├── R12_cut150_66.txt
-│   │   │   └── R12_cut200_101.txt
-│   │   └── R34
-│   │       ├── R34_cut100_23.txt
-│   │       ├── R34_cut150_42.txt
-│   │       └── R34_cut200_67.txt
-│   └── RulesInIsolation
-│       ├── R1
-│       │   ├── R1_100.txt
-│       │   ├── R1_150.txt
-│       │   └── R1_200.txt
-│       ├── R2
-│       │   ├── R2_100.txt
-│       │   ├── R2_150.txt
-│       │   └── R2_200.txt
-│       ├── R3
-│       │   ├── R3_100.txt
-│       │   ├── R3_150.txt
-│       │   └── R3_200.txt
-│       └── R4
-│           ├── R4_100.txt
-│           ├── R4_150.txt
-│           └── R4_200.txt
-└── Credulous_2.0
-    └── Credulous_v2.0.csv   
+Credulous(git_proj)   
+├── Credulous_2.0
+    ├── credulous.csv
+├── Credulous   
+│   ├── All Rules   
+│   │   └── R1234   
+│   │       ├── R1234_cut100_19.txt   
+│   │       ├── R1234_cut150_37.txt   
+│   │       └── R1234_cut200_63.txt   
+│   ├── Impact of Normalization   
+│   │   ├── R13   
+│   │   │   ├── R13_cut100_71.txt   
+│   │   │   ├── R13_cut150_114.txt   
+│   │   │   └── R13_cut200_152.txt   
+│   │   └── R24   
+│   │       ├── R24_cut100_82.txt   
+│   │       ├── R24_cut150_125.txt   
+│   │       └── R24_cut200_174.txt   
+│   ├── Impact of Seniority   
+│   │   ├── R12   
+│   │   │   ├── R12_cut100_36.txt   
+│   │   │   ├── R12_cut150_66.txt   
+│   │   │   └── R12_cut200_101.txt   
+│   │   └── R34   
+│   │       ├── R34_cut100_23.txt   
+│   │       ├── R34_cut150_42.txt   
+│   │       └── R34_cut200_67.txt   
+│   └── RulesInIsolation   
+│       ├── R1   
+│       │   ├── R1_100.txt   
+│       │   ├── R1_150.txt   
+│       │   └── R1_200.txt   
+│       ├── R2   
+│       │   ├── R2_100.txt   
+│       │   ├── R2_150.txt   
+│       │   └── R2_200.txt   
+│       ├── R3   
+│       │   ├── R3_100.txt   
+│       │   ├── R3_150.txt   
+│       │   └── R3_200.txt   
+│       └── R4   
+│           ├── R4_100.txt   
+│           ├── R4_150.txt   
+│           └── R4_200.txt   
+└── Humans2Considered.txt    
 
 ##### For further information, please send an e-mail to: alessandro.balestrucci@gssi.it
