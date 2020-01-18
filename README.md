@@ -13,8 +13,8 @@ Papers to be cited:
 
 1) Alessandro Balestrucci, Rocco De Nicola, Omar Inverso, Catia
 Trubiani:
-Identification of credulous users on Twitter. SAC 2019: 2096-2103
-
+Identification of credulous users on Twitter. SAC 2019: 2096-2103  
+<pre><code>
 bibtex entry:  
 @inproceedings{DBLP:conf/sac/BalestrucciNIT19,  
    author    = {Alessandro Balestrucci and
@@ -30,6 +30,7 @@ Computing,
    url       = {https://doi.org/10.1145/3297280.3297486},  
    doi       = {10.1145/3297280.3297486}  
 }  
+</code></pre>
 
 2) Alessandro Balestrucci, Rocco De Nicola, Marinella Petrocchi, Catia Trubiani:  
 Do you really follow them? Automatic Detection of Credulous Twitter Users. In 20th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL), LNCS Springer, 2019 (in press)
