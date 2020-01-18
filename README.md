@@ -13,7 +13,7 @@ Papers to be cited:
 
 1) Alessandro Balestrucci, Rocco De Nicola, Omar Inverso, Catia
 Trubiani:
-Identification of credulous users on Twitter. SAC 2019: 2096-2103  
+Identification of credulous users on Twitter. SAC 2019: 2096-2103
 <pre><code>
 bibtex entry:  
 @inproceedings{DBLP:conf/sac/BalestrucciNIT19,  
@@ -34,6 +34,32 @@ Computing,
 
 2) Alessandro Balestrucci, Rocco De Nicola, Marinella Petrocchi, Catia Trubiani:  
 Do you really follow them? Automatic Detection of Credulous Twitter Users. In 20th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL), LNCS Springer, 2019 (in press)
+<pre><code>
+bibtex entry:  
+@inproceedings{balestrucci2019you,
+  title={Do you really follow them? Automatic detection of credulous Twitter users},
+  author={Balestrucci, Alessandro and De Nicola, Rocco and Petrocchi, Marinella and Trubiani, Catia},
+  booktitle={International Conference on Intelligent Data Engineering and Automated Learning},
+  pages={402--410},
+  year={2019},
+  organization={Springer}
+}
+</code></pre>
+2) Alessandro Balestrucci, “How many bots are you following?”, in Proceedings of the 4th Italian Conference on Cyber Security, ITASEC2020 - in press. Available: https://arxiv.org/abs/2001.05222
+<pre><code>
+bibtex entry:
+
+@inproceedings{aless2020bots,
+  title={How many bots are you following?},
+    author={Alessandro Balestrucci},
+    year={2020},
+    eprint={2001.05222},
+    archivePrefix={arXiv},
+    primaryClass={cs.SI}
+  booktitle={in Proceedings of the 4th Italian Conference on Cyber Security, ITASEC2020 - in press},
+  year={2020}
+}
+</code></pre>
 
 This git project is structured in the following way:  
 - Credulous (folder)
