@@ -39,10 +39,9 @@ The main folder contains 2 files:
 - Credulous (folder)
 
 The structure is this:  
-Credulous(git_proj)   
-├── Credulous_2.0
-    ├── credulous.csv
+Credulous (GitProj)   
 ├── Credulous   
+│   ├── Humans2Considered.txt   
 │   ├── All Rules   
 │   │   └── R1234   
 │   │       ├── R1234_cut100_19.txt   
@@ -83,6 +82,7 @@ Credulous(git_proj)
 │           ├── R4_100.txt   
 │           ├── R4_150.txt   
 │           └── R4_200.txt   
-└── Humans2Considered.txt    
+└── Credulous_2.0   
+      └── Credulous_v2.0.csv   
 
 ##### For further information, please send an e-mail to: alessandro.balestrucci@gssi.it
