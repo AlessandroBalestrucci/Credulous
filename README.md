@@ -34,7 +34,7 @@ Computing,
 2) Alessandro Balestrucci, Rocco De Nicola, Marinella Petrocchi, Catia Trubiani:  
 Do you really follow them? Automatic Detection of Credulous Twitter Users. In 20th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL), LNCS Springer, 2019 (in press)
 
-The main folder contains 2 files:
+This git project is structured in the following way:  
 - Credulous (folder)
 - Credulous_2.0 (folder): 316 credulous users
 - Credulous_Regrgession_tasks (folder): human-operated Twitter accounts with associated number of followees and, among them, the number of bot-followees
