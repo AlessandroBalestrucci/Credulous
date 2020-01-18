@@ -83,9 +83,9 @@ Credulous (GitProj)
 │           ├── R4_150.txt   
 │           └── R4_200.txt   
 └── Credulous_2.0   
-      └── Credulous_v2.0.csv   
+│   └── Credulous_v2.0.csv   
 └── Credulous_Regression_tasks
-      └── data.csv  
+│   └── data.csv   
 
 
 ##### For further information, please send an e-mail to: alessandro.balestrucci@gssi.it
