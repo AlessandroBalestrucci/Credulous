@@ -45,10 +45,9 @@ bibtex entry:
   organization={Springer}
 }
 </code></pre>
-2) Alessandro Balestrucci, “How many bots are you following?”, in Proceedings of the 4th Italian Conference on Cyber Security, ITASEC2020 - in press. Available: https://arxiv.org/abs/2001.05222
+3) Alessandro Balestrucci, “How many bots are you following?”, in Proceedings of the 4th Italian Conference on Cyber Security, ITASEC2020 - in press. Available: https://arxiv.org/abs/2001.05222
 <pre><code>
 bibtex entry:
-
 @inproceedings{aless2020bots,
   title={How many bots are you following?},
     author={Alessandro Balestrucci},
